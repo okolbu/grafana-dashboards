@@ -48,7 +48,7 @@
       }
     ]
   },
-  "description": "FeeeNAS 11 dashboard using Graphite data source",
+  "description": "FreeNAS 11 dashboard using Graphite data source",
   "editable": true,
   "gnetId": 1826,
   "graphTooltip": 0,
